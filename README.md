@@ -1,7 +1,6 @@
 📚 Digital Library Desk
 
-Digital Library Desk is a simple web-based project that helps manage library activities like viewing books, selecting genres, and issuing books. It provides an easy interface for students and librarians to handle book details digitally instead of using manual records.
-
+Digital Library Desk is a simple web-based project that allows users to book library books in an easy and simple way. It helps manage book details, genres, and student information digitally instead of using manual records.
 ✨ Features
 
 View available books
